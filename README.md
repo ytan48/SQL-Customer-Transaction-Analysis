@@ -1,6 +1,4 @@
-# SQL Customer Transaction Analysis (SQL-only)
-
-A beginner-friendly, SQL-only PostgreSQL project that demonstrates core data analyst SQL skills using a simulated customer–transaction dataset.
+# SQL Customer Transaction Analysis
 
 ## What This Project Solves
 
